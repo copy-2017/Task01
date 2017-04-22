@@ -1,0 +1,17 @@
+/*
+* @Author: lin
+* @Date:   2017-04-21 20:05:37
+* @Last Modified by:   lin
+* @Last Modified time: 2017-04-21 20:28:40
+*/
+*{margin: 0;padding: 0;}
+.box{padding:3% 0 0 3%;}
+
+.box div{
+  width:30% ;
+  float: left;
+  background:#fea500;
+  padding:30% 0 0 0;
+  margin:0 3% 3% 0;
+  border-radius: 10px;
+}
